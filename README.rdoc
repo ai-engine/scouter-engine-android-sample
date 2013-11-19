@@ -5,11 +5,11 @@ http://developer.android.com/sdk/index.html#download
 == Download this sample
 https://github.com/ai-engine/scouter-engine-android-sample/archive/master.zip
 
-== Lunch Eclipse and import sample file
+== Launch Eclipse and import sample file
 unzip adt-bundle-mac-x86_64-20131030.zip
 then, open adt-bundle-mac-x86_64-20131030/eclipse/Eclipse
 
-If bellow window display, It is no problem click "OK".
+If this window display, It is no problem to click "OK".
 http://scouterengine.com/img/usage1.png
 
 == Set android device option 
@@ -32,7 +32,7 @@ Click "Browse" then, select downloaded sample project directory. Next, turn on "
 http://scouterengine.com/img/usage4.png
 
 Connect your android device to your pc via USB micro cable.
-In "Package Explore" of Eclipse, right click your project and select hight light colunm bellow image.
+In "Package Explore" of Eclipse, right-click your project and select hight light colunm this image.
 
 http://scouterengine.com/img/usage5.png
 
