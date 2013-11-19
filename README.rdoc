@@ -40,9 +40,13 @@ Choose your android device and click "OK". It will start to run your android app
 
 http://scouterengine.com/img/usage6.png
 
-This is app screen. When you tap bottom button, app detects camera image from DB.
+This is app screen. When you tap bottom button, app detects camera image from DB. 
 
 http://scouterengine.com/img/sample_screen.png
+
+DB has these images. Path is "DetectingSample -> res -> raw".
+
+http://scouterengine.com/img/usage9_2.png
 
 When you tap bottom button, "at_and_t_park" will display.
 
