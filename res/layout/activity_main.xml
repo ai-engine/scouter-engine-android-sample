@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+         
+    <LinearLayout
+        android:id="@+id/camera_preview_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ui_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Large Text"
+            android:background="#80666666"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        <Button
+            android:id="@+id/show_detect_id_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:text="detect"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            />
+    </LinearLayout>
+ 
+    
+</RelativeLayout>
