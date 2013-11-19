@@ -59,7 +59,7 @@ http://scouterengine.com/img/uss_pampanito.jpg
 
 Let's add new image to your DB. Take a photo and save to your PC.
 
-http://scouterengine.com/img/usage9.jpg
+http://scouterengine.com/img/usage9.png
 
 Rename that image (use [a-z0-9_.]).
 Drop that image to your android project. Next, restart your app. Then app can detect and display that file name.
