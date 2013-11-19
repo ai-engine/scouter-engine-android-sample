@@ -10,8 +10,30 @@ https://github.com/ai-engine/scouter-engine-android-sample/archive/master.zip
 unzip adt-bundle-mac-x86_64-20131030.zip
 then, open adt-bundle-mac-x86_64-20131030/eclipse/Eclipse
 
+If bellow window display, It is no problem click "OK".
+http://scouterengine.com/img/usage1.png
+
 == set android device option 
 Turn on USB debugging. Settings -> Developer options -> USE debugging
 
+== import sample android project
 
-http://scouterengine.com/img/top.png
+File -> Import click
+
+http://scouterengine.com/img/usage2.png
+
+Select highlight column and click "Next >"
+
+http://scouterengine.com/img/usage3.png
+
+Click "Browse" then, select downloaded sample project directory. Next, turn on "copy projects into workspace", finally, click "Finish". 
+
+http://scouterengine.com/img/usage4.png
+
+In "Package Explore" of Eclipse, right click your project and select hight light colunm bellow image.
+
+http://scouterengine.com/img/usage5.png
+
+Choose your android device and click "OK". It will start to run your android app.
+
+http://scouterengine.com/img/usage6.png
