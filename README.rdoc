@@ -1,4 +1,3 @@
-
 = Usage
 == Download Eclipse with SDK ADT Bundle 
 http://developer.android.com/sdk/index.html#download
@@ -37,3 +36,15 @@ http://scouterengine.com/img/usage5.png
 Choose your android device and click "OK". It will start to run your android app.
 
 http://scouterengine.com/img/usage6.png
+
+This is app screen. When you tap bottom button, app detects camera image from DB.
+http://scouterengine.com/img/sample_screen.png
+
+Lunch your browser and open http://scouterengine.com/
+http://scouterengine.com/img/usage8.png
+
+Then, Right click and save this image to your drive.
+http://scouterengine.com/img/usage9.png
+
+Drop that image to your android project
+http://scouterengine.com/img/usage10.png
