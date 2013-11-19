@@ -12,8 +12,10 @@ then, open adt-bundle-mac-x86_64-20131030/eclipse/Eclipse
 If bellow window display, It is no problem click "OK".
 http://scouterengine.com/img/usage1.png
 
-== set android device option 
-Turn on USB debugging. Settings -> Developer options -> USE debugging
+== Set android device option 
+On your android device, turn on USB debugging. Settings -> Developer options -> USE debugging
+
+http://scouterengine.com/img/android_screen_setting.jpg
 
 == import sample android project
 
@@ -29,6 +31,7 @@ Click "Browse" then, select downloaded sample project directory. Next, turn on "
 
 http://scouterengine.com/img/usage4.png
 
+Connect your android device to your pc via USB micro cable.
 In "Package Explore" of Eclipse, right click your project and select hight light colunm bellow image.
 
 http://scouterengine.com/img/usage5.png
@@ -41,7 +44,20 @@ This is app screen. When you tap bottom button, app detects camera image from DB
 
 http://scouterengine.com/img/sample_screen.png
 
-Lunch your browser and open http://scouterengine.com/
+When you tap bottom button, "at_and_t_park" will display.
+
+http://scouterengine.com/img/at_and_t_park.jpg
+
+When you tap bottom button, "church" will display.
+
+http://scouterengine.com/img/church.jpg
+
+When you tap bottom button, "uss_pampanito" will display.
+
+http://scouterengine.com/img/uss_pampanito.jpg
+
+
+Launch your browser and open http://scouterengine.com
 
 http://scouterengine.com/img/usage8.png
 
