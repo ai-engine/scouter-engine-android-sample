@@ -1,0 +1,17 @@
+
+= Usage
+== Download Eclipse with SDK ADT Bundle 
+http://developer.android.com/sdk/index.html#download
+
+== Download this sample
+https://github.com/ai-engine/scouter-engine-android-sample/archive/master.zip
+
+== Lunch Eclipse and import sample file
+unzip adt-bundle-mac-x86_64-20131030.zip
+then, open adt-bundle-mac-x86_64-20131030/eclipse/Eclipse
+
+== set android device option 
+Turn on USB debugging. Settings -> Developer options -> USE debugging
+
+
+http://scouterengine.com/img/top.png
