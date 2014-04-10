@@ -71,4 +71,14 @@ Drop that image to your android project. Next, restart your app. Then app can de
 http://scouterengine.com/img/usage10.png
 
 
+# Copyright
+
+* Copyright
+
+  * Copyright (c) 2013- Masayoshi Nakamura
+
+* License
+
+  * BSD
+
 
